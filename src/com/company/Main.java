@@ -14,5 +14,7 @@ public class Main {
             System.out.println("Whatever " + i);
         }
 
+        System.out.println("Whatever!");
+
     }
 }
